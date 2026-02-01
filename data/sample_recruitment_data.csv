@@ -1,0 +1,24 @@
+CandidateID,JD,AppliedDate,InterviewDate,OfferDate,Status,Skills,Source
+C001,Python Developer,2026-01-01,2026-01-10,2026-01-20,Joined,Python;SQL;APIs,LinkedIn
+C002,Data Analyst,2026-01-03,2026-01-12,2026-01-22,Rejected,Excel;SQL,Naukri
+C003,Python Developer,2026-01-05,2026-01-14,2026-01-24,Joined,Python;APIs,LinkedIn
+C004,Java Developer,2026-01-06,2026-01-16,2026-01-26,Joined,Java;SQL,Indeed
+C005,Data Scientist,2026-01-08,2026-01-18,2026-01-28,Interviewed,Python;Machine Learning,LinkedIn
+C006,Python Developer,2026-01-09,2026-01-19,2026-01-29,Joined,Python;SQL;Excel,LinkedIn
+C007,Data Analyst,2026-01-10,2026-01-20,2026-01-30,Rejected,SQL;Excel,Naukri
+C008,Java Developer,2026-01-11,2026-01-21,2026-01-31,Joined,Java;Spring,Indeed
+C009,Data Scientist,2026-01-12,2026-01-22,2026-02-01,Joined,Python;Machine Learning;SQL,LinkedIn
+C010,Python Developer,2026-01-13,2026-01-23,2026-02-02,Interviewed,Python;APIs,LinkedIn
+C011,Python Developer,2026-01-14,2026-01-24,2026-02-03,Joined,Python;SQL,LinkedIn
+C012,Data Analyst,2026-01-15,2026-01-25,2026-02-04,Joined,Excel;SQL,Naukri
+C013,Java Developer,2026-01-16,2026-01-26,2026-02-05,Rejected,Java;Spring,Indeed
+C014,Data Scientist,2026-01-17,2026-01-27,2026-02-06,Joined,Python;Machine Learning;SQL,LinkedIn
+C015,Python Developer,2026-01-18,2026-01-28,2026-02-07,Joined,Python;APIs,LinkedIn
+C016,Data Analyst,2026-01-19,2026-01-29,2026-02-08,Interviewed,SQL;Excel,Naukri
+C017,Java Developer,2026-01-20,2026-01-30,2026-02-09,Joined,Java;Spring,Indeed
+C018,Data Scientist,2026-01-21,2026-01-31,2026-02-10,Joined,Python;Machine Learning,LinkedIn
+C019,Python Developer,2026-01-22,2026-02-01,2026-02-11,Joined,Python;SQL;APIs,LinkedIn
+C020,Data Analyst,2026-01-23,2026-02-02,2026-02-12,Rejected,Excel;SQL,Naukri
+
+Add sample recruitment data CSV
+
